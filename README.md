@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:161b22&text=Bruno%20Cabral&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=Estudante%20de%20ADS%20%7C%20Brazil%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=56&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a1a3f,100:1e3a8a&text=Bruno%20Cabral&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=Estudante%20de%20ADS%20%7C%20Brazil%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=56&descSize=16&animation=fadeIn"/>
 </div>
 
 ---
