@@ -1,19 +1,51 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:161b22&text=Bruno%20Cabral&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=Estudante%20de%20ADS%20%7C%20Brazil%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=56&descSize=16&animation=fadeIn"/>
+</div>
 
-<h1 style="font-size: 48px; font-weight: 800; letter-spacing: 2px;">
-BRUNO CABRAL
-</h1>
+---
 
-### `DESENVOLVEDOR EM FORMAÇÃO`
+## 👋 Hi, I'm Bruno
 
-`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
+Estudante de Análise e Desenvolvimento de Sistemas, com interesse em tecnologia e desenvolvimento de software. Sempre aprendendo e aberto a novas oportunidades e colaborações.
 
-<br>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Estudando+Python;Construindo+meus+primeiros+projetos;Aprendendo+L%C3%B3gica+de+Programa%C3%A7%C3%A3o;Evoluindo+um+commit+de+cada+vez;Transformando+ideias+em+c%C3%B3digo" alt="Typing Animation">
+## 🚀 Tech Stack
 
-<br><br>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" height="75" alt="Tecnologias">
+---
 
+## 🛠️ Tools
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+</div>
+
+---
+
+## 🌐 Connect with me
+
+<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+
+<a href="https://www.linkedin.com/in/bruno-cabral-47049841a" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-06b6d4?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=06b6d4"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/bruno084/bruno084/output/snake.svg" alt="Snake animation"/>
+</div>
+
+---
+
+<div align="center">
+Thanks for visiting 🤍
 </div>
