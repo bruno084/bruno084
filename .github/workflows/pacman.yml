@@ -1,0 +1,32 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: generate pacman graph
+        uses: abozanona/pacman-contribution-graph@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: bruno084
+          outputs: |
+            dist/pacman-contribution-graph.svg?game=pacman&theme=github
+            dist/pacman-contribution-graph-dark.svg?game=pacman&theme=github-dark
+
+      - name: push output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
