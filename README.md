@@ -40,8 +40,16 @@ Estudante de Análise e Desenvolvimento de Sistemas, com interesse em tecnologia
 
 ## 👾 Pac-Man Contribution Graph
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruno084/bruno084/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bruno084/bruno084/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bruno084/bruno084/output/pacman-contribution-graph.svg">
 </picture>
+</div>
+
+---
+
+<div align="center">
+Thanks for visiting 🤍
+</div>
